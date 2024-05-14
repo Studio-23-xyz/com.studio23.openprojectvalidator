@@ -1,0 +1,37 @@
+{
+  "name": "com.studio23.openprojectvalidator",
+  "version": "0.0.1",
+  "displayName": "Open Project Validator",
+  "description": "Open Project Validator is an alternative tool to Odin Validator which is open",
+  "unity": "2022.3",
+  "unityRelease": "10f1",
+  "documentationUrl": "https://studio-23-xyz.github.io/com.studio23.openprojectvalidator/manual/",
+  "changelogUrl": "https://studio-23-xyz.github.io/com.studio23.openprojectvalidator/changelog/CHANGELOG.html",
+  "licensesUrl": "https://studio-23-xyz.github.io/com.studio23.openprojectvalidator/license/LICENSE.html",
+  "scopedRegistries": [
+    {
+      "name": "Studio 23",
+      "url": "https://package.openupm.com",
+      "scopes": [
+        "com.studio23",
+      ]
+    }
+  ],
+
+  "keywords": [
+    "Project Validator",
+    "Scene Validation",
+    "Asset Validation"
+  ],
+  "author": {
+    "name": "Studio 23",
+    "email": "contact@studio-23.xyz",
+    "url": "https://studio-23.xyz"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Studio-23-xyz/com.studio23.openprojectvalidator.git"
+  },
+  "license": "MIT"
+}
